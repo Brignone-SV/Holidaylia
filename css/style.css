@@ -102,7 +102,7 @@ p {
 }
 
 .header {
-  margin-top: 10%;
+  margin-top: 8%;
   font-size: 40px;
 }
 
@@ -112,13 +112,9 @@ p {
   margin-top: 50px;
 }
 
-.registrazione-header {
-  height: 40px;
-  margin-top: 2%
-}
-
 .btn-registrazione {
   width: 100%;
+  margin-top: 12%;
 }
 
 .section-chisiamo {
