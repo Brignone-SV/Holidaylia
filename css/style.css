@@ -33,7 +33,7 @@ p {
 }
 
 .parallax-container {
-  min-height: 530px;
+  min-height: 600px;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
@@ -102,6 +102,7 @@ p {
 }
 
 .header {
+  margin-top: 10%;
   font-size: 40px;
 }
 
@@ -120,7 +121,12 @@ p {
   width: 100%;
 }
 
-.ospita {
+.section-chisiamo {
+   font-family: 'Raleway', sans-serif;
+}
+
+.header {
+  margin-top: 5%;
   font-family: 'Raleway', sans-serif;
 }
 
@@ -132,9 +138,9 @@ p {
 
 .chisiamo-subtitle {
   font-family: 'Raleway', sans-serif;
-  font-size: 0.5em;
+  font-size: 0.4em;
   margin-top: 3%;
-  line-height: 1.2em;
+  line-height: 1.1em;
 }
  
 footer.page-footer {
